@@ -1,0 +1,6 @@
+node_modules/
+components/
+build/
+.tmp/
+.idea/
+.DS_Store
